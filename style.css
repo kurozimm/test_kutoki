@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+}
+.icon {
+  text-align: right;
+}
+.nav {
+  justify-content: space-between;
+  width: 700px;
+  margin: auto;
+}
+a {
+  color: #000;
+  text-decoration: none;
+  display: block;
+}
+
+i {
+  width: 1000px;
+  height: 100px;
+}
